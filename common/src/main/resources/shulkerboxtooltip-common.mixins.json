@@ -13,7 +13,8 @@
   ],
   "mixins": [
     "LecternBlockEntityAccessor",
-    "SimpleContainerMixin"
+    "PlayerEnderChestContainerMixin",
+    "PlayerEnderChestContainerHookMixin"
   ],
   "injectors": {
     "defaultRequire": 1
